@@ -1,0 +1,15 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "description": "The MDS Week 4 API Gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "npx eg gateway create"
+  },
+  "author": "Lucian Duta",
+  "license": "ISC",
+  "dependencies": {
+    "express-gateway": "^1.16.11"
+  }
+}
