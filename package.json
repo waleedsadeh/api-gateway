@@ -8,7 +8,7 @@
     "init": "npx eg gateway create"
   },
   "author": "Lucian Duta",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express-gateway": "^1.16.11"
   }

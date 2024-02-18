@@ -1,7 +1,6 @@
-
 The MIT License (MIT)
 
-Copyright (c) 2024 Lucian
+Copyright (c) 2024 Lucian Duta
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
